@@ -2,8 +2,8 @@
     border-bottom-left-radius: 60px;
     border-bottom-right-radius: 60px;
     width: 100%;
+    /* margin-left: 100px; */
 }
-
 
 /* Slideshow container */
 .slideshow-container {
@@ -94,7 +94,6 @@
 
 
 #main {
-    margin-top: 120px;
     background-color: #fff;
 }
 
@@ -284,6 +283,10 @@
     line-height: 23px;
     font-weight: 400;
 }
+
+/* #main {
+    display: none;
+} */
 
 .col3 h3, .col5 h3, .col h3 {
     height: 80px;
