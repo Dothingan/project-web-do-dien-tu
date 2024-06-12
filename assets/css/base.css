@@ -4,22 +4,9 @@
     --text-color: #333;
     --bg-color: #4a90e2;
     --bg-color__sale: #ffc803;
-    --primary-color: #2654D1;
-    --border-color: #bdbdbd;
-    --row-color: #dfeeff;
 }
 
-/* *{
-    box-sizing: inherit;
-} */
 
-/* html {
-    font-size: 62.5%;
-    line-height: 1.6rem;
-    width: 1380px;
-    margin: 0 auto;
-    background-color: #eddcdc;
-} */
 
 html{
     /* tip */
@@ -30,7 +17,6 @@ html{
     line-height: 1.6rem;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
 }
 
 .grid{
